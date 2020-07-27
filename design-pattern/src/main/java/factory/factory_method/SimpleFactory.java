@@ -24,17 +24,4 @@ public class SimpleFactory {
         }
     }
 
-    public static ProductA createA() {
-        return new ProductA();
-    }
-
-    public static ProductB createB() {
-        return new ProductB();
-    }
-
-    public static ProductC createC() {
-        return new ProductC();
-    }
-
-
 }
