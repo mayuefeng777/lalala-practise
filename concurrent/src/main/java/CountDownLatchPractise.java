@@ -12,7 +12,6 @@ import java.util.concurrent.TimeUnit;
  * 子线程 -> 拼车乘客（乘客到了无需等待立马上车，不阻塞，同时countdown一次）
  *
  * @author mayuefeng
- * @date 2019-08-11
  */
 public class CountDownLatchPractise {
 

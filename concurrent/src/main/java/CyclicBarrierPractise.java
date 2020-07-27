@@ -12,7 +12,6 @@ import java.util.concurrent.Executors;
  * 子线程 -> 游客（到场后在围栏外面排队等待，被阻塞，达到坐满一辆缆车的人数后一起上车出发）
  *
  * @author mayuefeng
- * @date 2019-08-11
  */
 public class CyclicBarrierPractise {
 

@@ -11,7 +11,6 @@ import java.util.concurrent.Semaphore;
  * 子线程 -> 游客（没有空闲车位时排队到达，被阻塞）
  *
  * @author mayuefeng
- * @date 2019-08-11
  */
 public class SemaphorePractise {
 
